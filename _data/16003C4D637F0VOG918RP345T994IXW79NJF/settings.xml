@@ -1,0 +1,12 @@
+<project name="stage0" version="docear 1.0" ID="16003C4D637F0VOG918RP345T994IXW79NJF">
+<folder type="library" name="Library">
+<link type="literature_annotations" name="Literature &amp; Annotations" path="project://16003C4D637F0VOG918RP345T994IXW79NJF/_data/16003C4D637F0VOG918RP345T994IXW79NJF/default_files/literature_and_annotations.mm"/>
+<link type="file" name="Temp" path="project://16003C4D637F0VOG918RP345T994IXW79NJF/_data/16003C4D637F0VOG918RP345T994IXW79NJF/default_files/temp.mm" system="true"/>
+<link type="file" name="Trash" path="project://16003C4D637F0VOG918RP345T994IXW79NJF/_data/16003C4D637F0VOG918RP345T994IXW79NJF/default_files/trash.mm" system="true"/>
+</folder>
+<folder type="physical" name="My drafts" path="project://16003C4D637F0VOG918RP345T994IXW79NJF/_data/16003C4D637F0VOG918RP345T994IXW79NJF/My%20Drafts/"/>
+<folder type="literature_repository" name="Literature repository" system="true">
+<folder type="repository_path" name="default" path="file:/C:/Users/Student/Docear/projects/stage0/literature_repository"/>
+</folder>
+<link type="references" name="References" path="project://16003C4D637F0VOG918RP345T994IXW79NJF/_data/16003C4D637F0VOG918RP345T994IXW79NJF/default_files/stage0.bib" system="true"/>
+</project>
