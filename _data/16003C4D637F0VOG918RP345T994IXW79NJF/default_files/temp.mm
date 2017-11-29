@@ -1,7 +1,7 @@
-<map version="docear 1.1" project="16003C4D637F0VOG918RP345T994IXW79NJF" project_last_home="file:/C:/Users/admin/Docear/projects/Demo%20files" type="temp">
+<map version="docear 1.1" type="temp" dcr_id="1511916938301_kj9x0b38nkv9punnuidtp1n3" project="16003C4D637F0VOG918RP345T994IXW79NJF" project_last_home="file:/Users/emidude/Docear/projects/stage0/">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
-<node TEXT="Temp" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1358858509753" DCR_PRIVACY_LEVEL="DEMO"><hook NAME="MapStyle">
+<node TEXT="Temp" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1511918676309" DCR_PRIVACY_LEVEL="DEMO"><hook NAME="MapStyle">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -52,7 +52,7 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="2"/>
-<node LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="left" ID="ID_989309610" CREATED="1344498811808" MODIFIED="1358858509753" HGAP="-377" VSHIFT="-147" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
+<node LOCALIZED_STYLE_REF="defaultstyle.floating" POSITION="left" ID="ID_989309610" CREATED="1344498811808" MODIFIED="1511918676315" HGAP="-377" VSHIFT="-147" DCR_PRIVACY_LEVEL="DEMO"><richcontent TYPE="NODE">
 
 <html>
   <head>

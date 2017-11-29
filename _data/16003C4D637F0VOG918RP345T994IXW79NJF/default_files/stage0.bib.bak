@@ -25,7 +25,7 @@
   year = {2010},
   volume = {13},
   number = {3},
-  month = dec,
+  month = {\#dec\#},
   note = {Available at http://docear.org},
   doi = {10.3998/3336451.0013.305},
   file = {:../../../literature_repository/Example PDFs/Academic search engine spam and Google Scholars resilience against it.pdf:PDF},
@@ -74,7 +74,7 @@
   volume = {41},
   pages = {176-190},
   number = {2},
-  month = jan,
+  month = {\#jan\#},
   note = {University of Toronto Press. Available at http://docear.org},
   doi = {10.3138/jsp.41.2.176},
   file = {:../../../literature_repository/Example PDFs/Academic Search Engine Optimization (ASEO) -- Optimizing Scholarly Literature for Google Scholar and Co.pdf:PDF},
@@ -86,9 +86,9 @@
 
 @comment{jabref-meta: selector_author:}
 
-@comment{jabref-meta: selector_journal:}
-
 @comment{jabref-meta: selector_keywords:}
+
+@comment{jabref-meta: selector_journal:}
 
 @comment{jabref-meta: groupsversion:3;}
 
